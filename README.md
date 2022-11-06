@@ -4,7 +4,7 @@
 
 ## Example 1
 
-Andrew McMeikan July 29
+Andrew McMeikan July 2022
  
 "OK, a bit premature but had to share that my PCBs are on their way.
 Wire wrap of a USB port onto a Z-80 worked well hope the PCB works too.
