@@ -2,7 +2,7 @@
 
 
 
-## Example
+## Example 1
 
 Andrew McMeikan July 29
  
@@ -22,4 +22,10 @@ These are early versions so not all the bells and whistles that are possible but
 
 ![image](https://user-images.githubusercontent.com/58069246/200199692-bdd012a6-26da-45fb-ab2e-3bcbc76a35f7.png)
 
+## Example 2
+https://github.com/SteveJustin1963/tec-EMU-BG
+
+## Ref
+- https://www.retrobrewcomputers.org/doku.php?id=boards:ecb:usb-fifo:start
+- https://www.ecstaticlyrics.com/electronics/Z80/EEPROM_programmer/
 
